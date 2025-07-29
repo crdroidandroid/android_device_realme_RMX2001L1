@@ -1,0 +1,27 @@
+[
+    {
+        "repository": "crdroidandroid/android_hardware_mediatek",
+        "target_path": "hardware/mediatek",
+        "remote": "crdroid"
+    },
+    {
+        "repository": "crdroidandroid/android_device_mediatek_sepolicy_vndr",
+        "target_path": "device/mediatek/sepolicy_vndr",
+        "remote": "crdroid"
+    },
+    {
+        "repository": "crdroidandroid/android_device_realme_RM6785-common",
+        "target_path": "device/realme/RM6785-common",
+        "remote": "crdroid"
+    },
+    {
+        "repository": "crdroidandroid/proprietary_vendor_realme_RM6785-common",
+        "target_path": "vendor/realme/RM6785-common",
+        "remote": "crdroid"
+    },
+    {
+        "repository": "crdroidandroid/android_kernel_realme_mt6785",
+        "target_path": "kernel/realme/mt6785",
+        "remote": "crdroid"
+    }
+]
